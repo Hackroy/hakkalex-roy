@@ -1,2 +1,3 @@
 # hakkalex-roy
-this is a my fist repo
+This is a my fist repo
+Author = Alexhackroy
